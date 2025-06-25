@@ -43,7 +43,7 @@ But **it’s still 100% possible.** Here's how I made it through.
   → Apply immediately to be one of the first candidates
   → Also connect to the hr on LinkedIn
 - **Document your journey**! I used a Google Sheet to track:
-  - Company, job title, JD, application date
+  - Company, job title, job description, application date
   - Interview status, HR contacts, notes
   - Even a simple one would work well: ![Screenshot 2025-06-25 at 11 30 04 PM](https://github.com/user-attachments/assets/e14b4d88-d028-4a7c-9d13-be2d78995c82)
 

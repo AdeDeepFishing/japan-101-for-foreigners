@@ -23,9 +23,9 @@ I really admire this system 🤌. Compared to countries where even “entry-leve
 ## 🧑‍💼 2. Society Route (中途 Mid-career or Non-Japanese-speaking New Grad)
 
 This is the path I took:  
-- I had **limited experience** (only internships, which doesn't count in most cases)  
+- I had **limited experience** (only internships, which doesn't really count in most cases)  
 - And **zero Japanese fluency (😭 I'm actively learning right now...)**  
-So I was kind of a “new grad”, but I couldn’t go the official student route, and that made job hunting harder for me.
+So I was kind of a “new grad”, but I couldn’t take the official student route, and that made job hunting harder for me.
 
 But **it’s still 100% possible.** Here's how I made it through.
 
@@ -40,8 +40,8 @@ But **it’s still 100% possible.** Here's how I made it through.
   - Wantedly
   - Findy
 - Use **LinkedIn filters** and search tricks to find jobs posted in the last **1 hour**  
-  - Apply immediately to be one of the first candidates
-  - Also connect to the hr on LinkedIn
+  → Apply immediately to be one of the first candidates
+  → Also connect to the hr on LinkedIn
 - **Document your journey**! I used a Google Sheet to track:
   - Company, job title, JD, application date
   - Interview status, HR contacts, notes
@@ -53,7 +53,7 @@ But **it’s still 100% possible.** Here's how I made it through.
 ### 💬 Connect & Network
 
 - Message recruiters after applying, *don't be shy*
-- There are tons of people applying, so connect and say something will def stand out a lot
+- Tons of people are applying, so connecting and saying something will def stand out a lot
 - Ask about the role, express interest, and request interviews
 - Go to tech events, networking meetups, and hiring expos:
   - Use **Meetup.com**, **Lu.ma**, or Discord groups
@@ -75,7 +75,7 @@ Communities worth checking out:
 
 The hardest part is **mentally staying confident**:
 - Keep telling yourself: *“I’ll get a job. I'll make it. I’ll be fine.”*
-- Even if you fail an interview? That’s okay. It’s **just practice.**
+- Even if you fail an interview? That’s okay. It’s **just practic, and u gonna get better every time.**
 - There are **so many companies & opportunities** out there. Keep going.
 
 This is real life Law of Attraction:  

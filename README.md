@@ -20,7 +20,6 @@ Official things you **have to deal with**:
 Trying to get hired? Here's what to know:
 - `job-hunt.md` – Where to start
 - `work-culture.md` – How not to get fired lol
-- `tech-events.md` – For folks in tech: meetups & networking
 
 ### 🧠 Language
 - `learning-japanese.md` – Apps, schools, tips, and vibes

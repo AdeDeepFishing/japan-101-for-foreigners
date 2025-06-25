@@ -10,26 +10,25 @@ Whether you're here on a J-Find visa, a student visa, or just figuring things ou
 
 ### 🗂️ Paperwork
 Official things you **have to deal with**:
-- `visa.md` – Visa basics & types
-- `zairyu-card.md` – How to get and use your residence card
-- `my-number.md` – The mysterious 12-digit code
-- `health-insurance.md` – National health insurance guide
-- `nenkin.md` – The pension system (and how to get exempt if possible)
+- [visa.md](paperwork/visa.md) – Visa basics & types  
+- [zairyu-card.md](paperwork/zairyu-card.md) – How to get and use your residence card  
+- [my-number.md](paperwork/my-number.md) – The mysterious 12-digit code  
+- [health-insurance.md](paperwork/health-insurance.md) – National health insurance guide  
+- [nenkin.md](paperwork/nenkin.md) – The pension system (and how to get exempt if possible) 
 
 ### 💼 Jobs
 Trying to get hired? Here's what to know:
-- `job-hunt.md` – Where to start
-- `work-culture.md` – How not to get fired lol
+- [job-hunt.md](jobs/job-hunt.md) – Where to start  
+- [work-culture.md](jobs/work-culture.md)   
 
 ### 🧠 Language
-- `learning-japanese.md` – Apps, schools, tips, and vibes
+- [learning-japanese.md](language/learning-japanese.md) – Apps, schools, tips, and vibes
 
 ### 🏙️ Life in Japan
-- `daily-life.md` – Random stuff nobody told me earlier
-- `transportation.md` – Trains, IC cards, and how not to get lost
-- `shopping.md` – Where to get what (cheap or cute)
-- `social-life.md` – Making friends, dating, culture shock
-
+- [daily-life.md](life/daily-life.md) – Random stuff nobody told me earlier  
+- [transportation.md](life/transportation.md) – Trains, IC cards, and how not to get lost  
+- [shopping.md](life/shopping.md) – Where to get what (cheap or cute)  
+- [social-life.md](life/social-life.md) – Making friends, dating, culture shock  
 
 ## 🤝 Contributing
 
